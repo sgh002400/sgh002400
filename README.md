@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
+### [Portfolio](https://jihwanshindev.notion.site/4dcbe0c3d4f54760863301e1df08bbc5)
+
+</br>
 
 
 ## 🖼️ Projects
