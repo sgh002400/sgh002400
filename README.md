@@ -7,7 +7,7 @@
 ## 🖼️ Projects
 |Project|Description|Period|Affiliation|Role|
 |:---:|:---:|:---:|:---:|:---:|
-|Ratrip</a>|나만의 여행 파트너 </br>|`2022.11 ~ 2023.02`|DDD|Backend Developer|
+|[Ratrip](https://github.com/sgh002400/Ratrip-Backend/tree/jihwan)</a>|나만의 여행 파트너 </br>|`2022.11 ~ 2023.02`|DDD|Backend Developer|
 |Chatting Server</a>|채팅 서버 </br>|`2022.09 ~ 2022.10`|Soongsil Developers|Backend Developer|
 |제식인</a>|제주인 커뮤니티 </br>|`2022.08`|Kakao X Goorm Hackathon|Backend Developer|
 |Crypto Crunch</a>|당신의 DeFi 가이드 </br>|`2022.02 ~ 2022.05`|SOPT|PM|
